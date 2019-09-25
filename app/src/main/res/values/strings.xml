@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="title">Mi Calculadora, SOLO SUMA</string>
+    <string name="result">Resultado:</string>
+    <string name="first_value">Primer valor</string>
+    <string name="second_value">Segundo valor</string>
+    <string name="solution">N/A</string>
+    <string name="sumar">SUMAR</string>
+</resources>
